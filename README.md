@@ -1,4 +1,4 @@
-# StockAI Vietnam – Deploy lên Render.com
+# Hệ thống hỗ trợ quyết định đầu tư chứng khoán dựa trên kỹ thuật Học máy và Phân tích dữ liệu chuỗi thời gian – Deploy lên Render.com
 
 ## Cấu trúc project
 ```
